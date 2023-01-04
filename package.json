@@ -5,14 +5,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ToNyOyO/npm-veeva-clm-presentations.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ToNyOyO/npm-veeva-clm-presentations/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/ToNyOyO/npm-veeva-clm-presentations#readme",
+  "homepage": "",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-clean": "^0.4.0",
